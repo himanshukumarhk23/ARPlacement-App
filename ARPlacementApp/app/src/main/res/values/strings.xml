@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="app_name">ARPlacementApp</string>
+
+
+    <string name="select_drill">Select Drill</string>
+    <string name="start_ar">Start AR Drill</string>
+    <string name="view_details">View Drill Details</string>
+
+    <string-array name="drills">
+        <item>Fire Drill</item>
+        <item>Earthquake Drill</item>
+        <item>Safety Drill</item>
+    </string-array>
+</resources>
