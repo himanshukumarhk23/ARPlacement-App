@@ -28,10 +28,10 @@ ARPlacementApp is an Android application built using **Google ARCore** and **Sce
 
 ## 🧾 Screenshots
 
-![first.jpg](src%2Fmain%2Fres%2Fdrawable%2Ffirst.jpg)
-![2nd.jpg](..%2F..%2F..%2FDesktop%2F2nd.jpg)
-![3rd.jpg](..%2F..%2F..%2FDesktop%2F3rd.jpg)
-![4th.jpg](..%2F..%2F..%2FDesktop%2F4th.jpg)
+![1st](https://github.com/user-attachments/assets/39ca9977-4d2b-4c41-8ecd-7d970696d0d3)
+![2nd](https://github.com/user-attachments/assets/6395e3bd-fc59-40fc-bf0b-7034ce6cb0a9)
+![3rd](https://github.com/user-attachments/assets/abfc3064-53c2-4f50-925d-442fd25256fb)
+![4th](https://github.com/user-attachments/assets/9e4e8b98-a37e-4451-a772-b0dc3ff009de)
 
 ---
 
